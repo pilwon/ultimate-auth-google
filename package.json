@@ -1,0 +1,20 @@
+{
+  "name": "ultimate-auth-google",
+  "version": "0.1.0",
+  "description": "Google Auth plugin for `ultimate-seed`.",
+  "license": "MIT",
+  "author": "Pilwon Huh <pilwon@gmail.com>",
+  "homepage": "https://github.com/pilwon/node-ultimate-auth-google",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pilwon/node-ultimate-auth-google.git"
+  },
+  "keywords": [
+    "ultimate",
+    "auth",
+    "google"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
