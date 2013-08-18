@@ -1,6 +1,6 @@
 # ultimate-auth-google
 
-**Google Auth** plugin for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
+**Google Auth** plugin for [ultimate-seed](https://github.com/pilwon/ultimate-seed).
 
 ## **★ This project is under development ★**
 
